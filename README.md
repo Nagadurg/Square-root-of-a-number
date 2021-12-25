@@ -31,7 +31,7 @@ fun(x)
 ```
 
 ## Output:
-![gcd of two number](n3.png)
+![gcd of two number](https://github.com/Nagadurg/Square-root-of-a-number/blob/27d6be52f6d14d80942ceecf625fd385ecef8baf/n3.PNG)
 
 
 ## Result:
